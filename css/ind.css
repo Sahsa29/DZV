@@ -1,0 +1,52 @@
+body{
+	margin: 0 auto;
+	background: url(http://www.twitrcovers.com/wp-content/uploads/2012/10/Flowers-Grass-l.jpg);
+	background-repeat: no-repeat;	
+	height: 100vh;
+	
+}
+.ur h1 {
+	 transform: rotate(-45deg);
+	 color: #fff; 
+	 
+}
+img{
+	width: 180px;
+	height:200px;
+	border: 4px double black; 
+    background: #fff; 
+    padding: 3px; 
+    margin-left: 500px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+span{
+	color: #01DF01;
+}
+h2{
+	text-align: center;
+	background-color: #29292970; 
+    color: #fff;
+    
+}
+h3{
+    margin-left: 500px;
+	background-color: #29292970; 
+    color: #fff;
+    width: 100px;
+    height: 40px;
+    border: 4px double #fff; 
+    background: #29292970;
+    font-size: 20px;
+     
+}
+
+p{
+	text-align: center;
+	background-color: #29292970; 
+    color: #fff;
+    width: 60px;
+    height: 20px;
+}
